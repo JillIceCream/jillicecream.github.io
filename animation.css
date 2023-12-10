@@ -1,0 +1,1 @@
+.navItem:hover{transform:translate(10px, 0);transition:200ms;transition-timing-function:ease-out}i:hover{transform:translate(0, -10px);transition:200ms;transition-timing-function:ease-out}#flexAbout i{transform:translate(0, 0)}

@@ -1,0 +1,1 @@
+span{background:#fff;border-radius:50%;margin:0;padding:0;display:inline-block;position:fixed}#sparkle{position:relative;height:100dvh}span{animation:sizing alternate infinite;z-index:-1}@keyframes sizing{0%{transform:scale(0)}100%{transform:scale(1)}}
